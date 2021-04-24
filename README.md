@@ -1,5 +1,6 @@
 # 2020_CSE_12
 blog link: https://2020-cse-12.blogspot.com/2021/04/armament-detection-and-alert-system.html
+
 This is our final year engineering project which is based on weapon detection
 Date: 26/04/2021 
 1. Till the following date we have progressed in our project idea building by referring to the following papers uploaded on our GitHub and published our own paper which is included too.

@@ -1,5 +1,6 @@
 # 2020_CSE_12
 blog link: https://2020-cse-12.blogspot.com/2021/04/armament-detection-and-alert-system.html
+link t0 weights:  
 
 This is our final year engineering project which is based on weapon detection
 

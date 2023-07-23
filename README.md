@@ -1,4 +1,4 @@
-# 2020_CSE_12
+# Weapon-Detection-and-alert-system (2020_CSE_12)
 blog link: https://2020-cse-12.blogspot.com/2021/04/armament-detection-and-alert-system.html
 The weights file are too large to upload on github. Please contact us for the yolo.weights file
 
